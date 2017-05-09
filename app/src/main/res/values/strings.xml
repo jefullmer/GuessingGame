@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string name="action_settings">Main Menu</string>
+    <string name="new_game">New Game</string>
+    <string name="title_activity_game_over">Game Over</string>
+    <string name="title_activity_splash_screen">Guessing Game</string>
+</resources>
